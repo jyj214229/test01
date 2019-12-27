@@ -10,6 +10,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
 @SpringCloudApplication
 public class Sp04OrderserviceApplication {
 //fggdfg
+	//vnnvkfd
 	public static void main(String[] args) {
 		SpringApplication.run(Sp04OrderserviceApplication.class, args);
 	}
